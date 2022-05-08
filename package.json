@@ -1,6 +1,6 @@
 {
 	"name": "@hassanium/hooks",
-	"version": "1.0.0",
+	"version": "0.1.0",
 	"description": "A universal, lightweight & efficient EventManager/PluginsSystem/MiddlewareManager/ExtendabilitySystem for JavaScript. It is not a production ready package. It is for learning purpose only",
 	"main": "dist/hassanium-hooks.js",
 	"scripts": {
